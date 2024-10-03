@@ -1,3 +1,6 @@
-data/
+data/archive/
+data/cleveland-test-sample.csv
+data/cleveland.csv
+data/readme
 papers/
 .conda
